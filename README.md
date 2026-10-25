@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @'
 # LG-Ref Production Monitoring System
 
@@ -29,3 +30,6 @@ Initial project structure created. Application development has not started.
 - Verify changes before marking features complete.
 - Update `PROJECT_HANDOVER.md` whenever meaningful project progress occurs.
 '@ | Set-Content -Encoding utf8 README.md
+=======
+# LG-Ref
+>>>>>>> 45b6467b0ef6c4b4433ab3648c04a94a0d573af9
